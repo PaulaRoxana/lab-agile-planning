@@ -8,5 +8,14 @@ assignees: ''
 ---
 
 As a user
-I want/need a service that has a counter
-So that I can keep track of how many times something was done
+I want/need 
+So that I can
+
+Assumptions and details:
+-
+-
+
+Acceptance criteria:
+Given
+When
+Then
